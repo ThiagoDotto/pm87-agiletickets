@@ -44,6 +44,6 @@ public class SessaoTest {
 		sessao.setTotalIngressos(2);
 		
 		//sessao.reserva(2);
-		Assert.assertEquals(2, sessao.podeReservar(2));
+		Assert.assertEquals(true, sessao.podeReservar(2));
 		}
 }
