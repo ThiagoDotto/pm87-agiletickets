@@ -1,5 +1,6 @@
 Agile Tickets
 =============
+Desenvolverdor Thiago
 
 Começando a desenvolver
 -----------------------
